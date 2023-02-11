@@ -7,8 +7,8 @@ Torch based library for developing computer vision models
     * ResNet34
     * CustomModel
 
-- **[Albumentations](https://github.com/rkpotdar/torch_cv_wrapper/tree/main/dataloader)** for Image augmentations 
-- **[Gradcam](https://github.com/rkpotdar/torch_cv_wrapper/tree/main/utils)** for explaining the model output
+- **[Albumentations](https://github.com/rkpotdar/torch_cv_wrapper/tree/master/dataloader)** for Image augmentations 
+- **[Gradcam](https://github.com/rkpotdar/torch_cv_wrapper/tree/master/utils)** for explaining the model output
 - **Util functions** for training, testing, plotting metrics, Tensorboard integration
 
 ## Folder Structure of the library
